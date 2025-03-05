@@ -1,0 +1,35 @@
+2025-02-28 12:33:20,187 :INFO : test_main : Crossed the Alert
+2025-02-28 12:33:24,525 :INFO : test_main : Choosing First Location
+2025-02-28 12:33:25,573 :INFO : test_main : Choosing Destination
+2025-02-28 12:33:44,963 :INFO : test_main : Searching Flights
+2025-02-28 13:11:48,071 :INFO : test_main : Crossed the Alert
+2025-02-28 13:12:05,155 :INFO : test_main : Choosing First Location
+2025-02-28 13:12:06,170 :INFO : test_main : Choosing Destination
+2025-02-28 13:12:27,909 :INFO : test_main : Searching Flights
+2025-02-28 14:28:40,037 :INFO : test_main : Crossed the Alert
+2025-02-28 14:28:44,914 :INFO : test_main : Choosing First Location
+2025-02-28 14:28:45,894 :INFO : test_main : Choosing Destination
+2025-02-28 14:29:04,891 :INFO : test_main : Searching Flights2025-02-28 17:33:26,908 :INFO : test_main : Crossed the Alert
+2025-02-28 17:33:31,391 :INFO : test_main : Choosing First Location
+2025-02-28 17:33:32,461 :INFO : test_main : Choosing Destination
+2025-02-28 17:33:51,134 :INFO : test_main : Searching Flights
+2025-03-03 11:26:44,065 :INFO : test_main : Crossed the Alert
+2025-03-03 11:26:48,897 :INFO : test_main : Choosing First Location
+2025-03-03 11:26:49,972 :INFO : test_main : Choosing Destination
+2025-03-03 11:27:09,131 :INFO : test_main : Searching Flights
+2025-03-03 12:01:22,556 :INFO : test_main : Crossed the Alert
+2025-03-03 12:01:28,252 :INFO : test_main : Choosing First Location
+2025-03-03 12:01:29,284 :INFO : test_main : Choosing Destination
+2025-03-03 12:01:48,759 :INFO : test_main : Searching Flights
+2025-03-04 15:10:31,396 :INFO : test_main : Crossed the Alert
+2025-03-04 15:10:37,257 :INFO : test_main : Choosing First Location
+2025-03-04 15:10:38,421 :INFO : test_main : Choosing Destination
+2025-03-04 15:11:16,369 :INFO : test_main : Searching Flights
+2025-03-04 15:14:05,709 :INFO : test_main : Crossed the Alert
+2025-03-04 15:14:11,244 :INFO : test_main : Choosing First Location
+2025-03-04 15:14:12,639 :INFO : test_main : Choosing Destination
+2025-03-04 15:14:33,670 :INFO : test_main : Searching Flights
+2025-03-04 15:27:31,130 :INFO : test_main : Crossed the Alert
+2025-03-04 15:27:38,420 :INFO : test_main : Choosing First Location
+2025-03-04 15:27:39,709 :INFO : test_main : Choosing Destination
+2025-03-04 15:28:18,192 :INFO : test_main : Searching Flights
